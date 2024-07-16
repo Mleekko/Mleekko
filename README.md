@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Oleh Koval profile views](https://u8views.com/api/v1/github/profiles/1646177/views/day-week-month-total-count.svg)](https://u8views.com/github/Mleekko)
+
 <!--
 **Mleekko/Mleekko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
